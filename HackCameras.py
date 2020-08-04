@@ -20,9 +20,9 @@ test()
 
 
 
-#cmd = 'pip3 install emoji'
-#os.system(cmd)
-
+cmd = 'pip3 install emoji'
+os.system(cmd)
+os.system('pip3 install requests')
 
 print('\033[37m'+"""                       .,,uod8B8bou,,.
               ..,uod8BBBBBBBBBBBBBBBBRPFT?l!i:.
