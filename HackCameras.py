@@ -18,6 +18,7 @@ def test():
 
 test()      
 
+#TA PROCURANDO OQUE AQUI AMIGO ?
 
 
 cmd = 'pip3 install emoji'
