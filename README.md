@@ -1,3 +1,6 @@
-## Para instalar basta executar 
-bash install.sh
-depois basta executar o instalador com python3
+# Brasil Cameras hack
+usado para mostrar IPs de cameras expostas pelo Brasil
+### Pré-requisitos
+voce ira precisar apenas executar o instalador
+```bash install.sh
+```
